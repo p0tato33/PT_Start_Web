@@ -1,0 +1,49 @@
+body {
+    background-color: #0f5481;
+    font-family: 'Courier New', Courier, monospace;
+    color: white
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+
+.my_photo {
+    background: url(../image/img3.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 450px;
+    height: 200px;
+}
+
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
